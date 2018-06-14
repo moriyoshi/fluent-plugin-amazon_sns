@@ -1,4 +1,4 @@
-require "aws-sdk"
+require "aws-sdk-sns"
 require "fluent/plugin/output"
 
 module Fluent::Plugin
